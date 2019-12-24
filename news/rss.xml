@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Last news</title>
+    <link>day3/news/rss.xml</link>
+    <item>
+      <title>Вторая запись</title>
+      <link>day3/news/Культура/Вторая запись</link>
+      <description><![CDATA[Вторая запись текст]]></description>
+      <pubDate>1577126850</pubDate>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>Первая запись</title>
+      <link>day3/news/Политика/Первая запись</link>
+      <description><![CDATA[Первая запись текст]]></description>
+      <pubDate>1577126833</pubDate>
+      <category>Политика</category>
+    </item>
+  </channel>
+</rss>
